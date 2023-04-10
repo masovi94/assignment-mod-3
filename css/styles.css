@@ -13,8 +13,6 @@ body {
   border-top-width: 3px;
   border-bottom-width: 3px;
   font-weight: bold;
-  border-right: 0px;
-  border-left: 0px;
  }
 
  #no-margin {
@@ -74,5 +72,4 @@ body {
     margin-left: 50px;
     margin-right: 50px;
     font-size: .8em;
-
   }
